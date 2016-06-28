@@ -32,4 +32,4 @@ for i in range(0, len(string2)):
 
 print(new2)
 
-#http://www.pythonchallenge.com/pc/def/ocr.html
+#answer: "http://www.pythonchallenge.com/pc/def/ocr.html"
