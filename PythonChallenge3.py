@@ -1268,4 +1268,4 @@ for i in range(0, len(string)):
 
 print("\n\n" + url)
 
-#http://www.pythonchallenge.com/pc/def/linkedlist.php
+#answer: "http://www.pythonchallenge.com/pc/def/linkedlist.php"
