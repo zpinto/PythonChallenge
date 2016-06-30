@@ -5,7 +5,7 @@ import javax.imageio.ImageIO;
 import java.awt.Color;
 
 
-public class PictureTester
+public class PythonChallenge7
 {
     public static void main(String[] args)
     {
