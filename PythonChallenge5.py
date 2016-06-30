@@ -1,5 +1,7 @@
 import pickle
+
 #must create a pickle file with the text
+#the source of the peakhill.html points you to banner.p(text for the pickle file)
 
 file = open("PythonChallenge5Text.p", "rb")
 stuff = pickle.load(file)
