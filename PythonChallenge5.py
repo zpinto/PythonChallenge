@@ -1,4 +1,5 @@
 import pickle
+#must create a pickle file with the text
 
 file = open("PythonChallenge5Text.p", "rb")
 stuff = pickle.load(file)
