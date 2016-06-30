@@ -1,4 +1,7 @@
 #start "http://www.pythonchallenge.com/pc/def/zip.html"
+
+#put this source in a folder with channel.zip and the unzipped contents of the channel.zip
+
 import zipfile
 from zipfile import ZipFile
 
