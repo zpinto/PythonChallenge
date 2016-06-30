@@ -1253,7 +1253,6 @@ PBuijeoTSpsVLaOGuLVjMZXkBvVXwUuHfBihziiavGSYofPNeKsTXruMUumRRPQJzvSzJkKbtSipiqBd
 
 url = ""
 
-found = False
 for i in range(0, len(string)):
     if len(string) - i >= 7:
         if(122 >= ord(string[i]) >= 97 and 90 >= ord(string[i + 1]) >= 65 and 90 >= ord(string[i + 2]) >= 65 and 90 >=
@@ -1262,7 +1261,6 @@ for i in range(0, len(string)):
                 ord(string[i + 8]) >= 97:
 
             url += string[i+4]
-
             print(string[i: i + 9])
 
 
